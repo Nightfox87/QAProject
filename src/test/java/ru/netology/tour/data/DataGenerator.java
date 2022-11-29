@@ -9,7 +9,6 @@ import org.apache.commons.dbutils.handlers.BeanListHandler;
 
 import java.sql.DriverManager;
 import java.time.LocalDate;
-import java.util.List;
 import java.util.Locale;
 
 public class DataGenerator {
