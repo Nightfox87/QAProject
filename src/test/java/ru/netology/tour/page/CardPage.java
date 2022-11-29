@@ -16,18 +16,18 @@ public class CardPage {
     private SelenideElement cardNumberField = $("[placeholder='0000 0000 0000 0000']");
     private SelenideElement monthField = $("[placeholder='08']");
     private SelenideElement yearField = $("[placeholder='22']");
-    private SelenideElement nameField = $(byXpath("//*[@id=\"root\"]/div/form/fieldset/div[3]/span/span[1]/span/span/span[2]/input"));
+    private SelenideElement nameField = $(byXpath("//fieldset/div[3]/span/span[1]/span/span/span[2]/input"));
     private SelenideElement cvcCodeField = $("[placeholder='999']");
     private SelenideElement continueButton = $(byText("Продолжить"));
     private SelenideElement successNotification = $("[class*=notification_status_ok]");
     private SelenideElement errorNotification = $("[class*=notification_status_error]");
     private SelenideElement incorrectMonthNote = $(byText("Неверно указан срок действия карты"));
     private SelenideElement expiredYearNote = $(byText("Истёк срок действия карты"));
-    private SelenideElement wrongFormatCardNumber = $(byXpath("//*[@id=\"root\"]/div/form/fieldset/div[1]/span/span/span[3]"));
-    private SelenideElement wrongFormatMonth = $(byXpath("//*[@id=\"root\"]/div/form/fieldset/div[2]/span/span[1]/span/span/span[3]"));
-    private SelenideElement wrongFormatYear = $(byXpath("//*[@id=\"root\"]/div/form/fieldset/div[2]/span/span[2]/span/span/span[3]"));
-    private SelenideElement wrongFormatCvcCode = $(byXpath("//*[@id=\"root\"]/div/form/fieldset/div[3]/span/span[2]/span/span/span[3]"));
-    private SelenideElement emptyNameField = $(byText("Поле обязательно для заполнения"));
+    private SelenideElement wrongFormatCardNumber = $(byXpath("//fieldset/div[1]/span/span/span[3]"));
+    private SelenideElement wrongFormatMonth = $("div:nth-child(2) > span > span:nth-child(1) > span > span > span.input__sub");
+    private SelenideElement wrongFormatYear = $("div:nth-of-type(2) span:nth-of-type(2) .input__sub");
+    private SelenideElement wrongFormatCvcCode = $("div:nth-of-type(3) span:nth-of-type(2) .input__sub");
+    private SelenideElement emptyNameField = $("div:nth-child(3) > span > span:nth-child(1) > span > span > span.input__sub");
 
 
 
