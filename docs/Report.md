@@ -21,11 +21,11 @@
 
 ## Отчет Allure
 
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.54.58.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.56.46.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.57.05.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.57.19.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.57.43.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.57.59.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.58.10.png)
-![](../../../Desktop/Снимок экрана 2022-12-03 в 19.58.19.png)
+<img width="1130" alt="Снимок экрана 2022-12-03 в 19 54 58" src="https://user-images.githubusercontent.com/98237389/205484663-f4af124e-28f0-44a0-8e34-0c56538aee23.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 56 46" src="https://user-images.githubusercontent.com/98237389/205484669-ffa13b32-dade-4508-b949-1de4f6c40c80.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 57 05" src="https://user-images.githubusercontent.com/98237389/205484679-78660fe6-a2d4-4858-9a35-5d2b1f6af683.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 57 19" src="https://user-images.githubusercontent.com/98237389/205484681-bc83be48-3633-4ac9-aa70-bbc618d42d81.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 57 43" src="https://user-images.githubusercontent.com/98237389/205484686-f4eb4e46-d0bf-4d3d-a425-d8c7554eefdf.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 57 59" src="https://user-images.githubusercontent.com/98237389/205484688-2a3cfcda-a043-4b28-904c-b79a236d93b3.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 58 10" src="https://user-images.githubusercontent.com/98237389/205484692-771a75d5-a3d4-4eb9-b96e-cccf0fe99f55.png">
+<img width="1242" alt="Снимок экрана 2022-12-03 в 19 58 19" src="https://user-images.githubusercontent.com/98237389/205484695-df8fcb56-e377-4320-9e7f-7866b5f6f475.png">
